@@ -18,4 +18,12 @@ public class ExceptionController
 
         return new ResponseEntity(info,new HttpHeaders(),HttpStatus.NOT_FOUND);
     }
+
+    /*@ExceptionHandler(LoggingFailureAnalysisReporter.class)
+    public ResponseEntity<Object> handleDatabaseException(LoggingFailureAnalysisReporter DatabaseExp)
+    {
+        ExceptionInfo info=new ExceptionInfo(DatabaseExp.getMessage(),HttpStatus.NOT_FOUND,ZonedDateTime.now());
+
+        return new ResponseEntity(info,new HttpHeaders(),HttpStatus.NOT_FOUND);
+    }*/
 }
