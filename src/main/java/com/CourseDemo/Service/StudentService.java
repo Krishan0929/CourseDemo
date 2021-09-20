@@ -1,6 +1,6 @@
 package com.CourseDemo.Service;
 
-import com.CourseDemo.Exception.LoggingFailureAnalysisReporter;
+
 import com.CourseDemo.Exception.StudentNotFoundException;
 import com.CourseDemo.Repository.courseRepo;
 import com.CourseDemo.Repository.studentRepo;
@@ -43,6 +43,15 @@ public class StudentService
             }
 
             return name;
+        }
+
+        public student createStudent(student student)
+        {
+            return studentRepo.save(student);
+        }
+        public void delete(int id)
+        {
+             studentRepo.deleteById(id);
         }
     }
 

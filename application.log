@@ -1,0 +1,50 @@
+2021-09-16 07:51:40,285 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 6336 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 07:51:40,291 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 07:51:40,292 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 07:51:42,809 INFO  RepositoryConfigurationDelegate:132 - [] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-16 07:51:42,948 INFO  RepositoryConfigurationDelegate:201 - [] Finished Spring Data repository scanning in 114 ms. Found 2 JPA repository interfaces.
+2021-09-16 07:51:44,224 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 9001 (http)
+2021-09-16 07:51:44,250 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-09-16 07:51:44,252 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-16 07:51:44,525 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-09-16 07:51:44,526 INFO  ServletWebServerApplicationContext:290 - [] Root WebApplicationContext: initialization completed in 4045 ms
+2021-09-16 07:51:44,946 INFO  LogHelper:31 - [] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-16 07:51:45,075 INFO  Version:44 - [] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-16 07:51:45,385 INFO  JavaReflectionManager:56 - [] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-16 07:51:45,613 INFO  HikariDataSource:110 - [] HikariPool-1 - Starting...
+2021-09-16 07:51:46,425 INFO  HikariDataSource:123 - [] HikariPool-1 - Start completed.
+2021-09-16 07:51:46,454 INFO  Dialect:175 - [] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-09-16 07:51:48,019 INFO  JtaPlatformInitiator:52 - [] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-16 07:51:48,041 INFO  AbstractEntityManagerFactoryBean:437 - [] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-16 07:51:48,798 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 - [] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-16 07:51:49,533 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 9001 (http) with context path ''
+2021-09-16 07:51:49,553 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 10.429 seconds (JVM running for 11.521)
+2021-09-16 07:51:49,559 ERROR CourseDemoApplication:14 - [] error shown
+2021-09-16 07:51:49,560 WARN  CourseDemoApplication:15 - [] warn shown
+2021-09-16 07:51:49,560 INFO  CourseDemoApplication:16 - [] info message shown
+2021-09-16 07:51:49,560 DEBUG CourseDemoApplication:17 - [] debug message shown
+2021-09-16 08:12:43,130 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 2668 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 08:12:43,142 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 08:12:43,143 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 08:12:45,455 INFO  RepositoryConfigurationDelegate:132 - [] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-16 08:12:45,609 INFO  RepositoryConfigurationDelegate:201 - [] Finished Spring Data repository scanning in 114 ms. Found 2 JPA repository interfaces.
+2021-09-16 08:12:46,858 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 9001 (http)
+2021-09-16 08:12:46,880 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-09-16 08:12:46,882 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-16 08:12:47,132 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-09-16 08:12:47,133 INFO  ServletWebServerApplicationContext:290 - [] Root WebApplicationContext: initialization completed in 3793 ms
+2021-09-16 08:12:47,576 INFO  LogHelper:31 - [] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-16 08:12:47,687 INFO  Version:44 - [] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-16 08:12:47,996 INFO  JavaReflectionManager:56 - [] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-16 08:12:48,162 INFO  HikariDataSource:110 - [] HikariPool-1 - Starting...
+2021-09-16 08:12:48,901 INFO  HikariDataSource:123 - [] HikariPool-1 - Start completed.
+2021-09-16 08:12:48,925 INFO  Dialect:175 - [] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-09-16 08:12:50,453 INFO  JtaPlatformInitiator:52 - [] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-16 08:12:50,474 INFO  AbstractEntityManagerFactoryBean:437 - [] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-16 08:12:51,276 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 - [] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-16 08:12:52,061 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 9001 (http) with context path ''
+2021-09-16 08:12:52,081 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 10.31 seconds (JVM running for 11.326)
+2021-09-16 08:12:52,088 ERROR CourseDemoApplication:14 - [] [getMessage] error shown
+2021-09-16 08:12:52,089 WARN  CourseDemoApplication:15 - [] [getMessage] warn shown
+2021-09-16 08:12:52,089 INFO  CourseDemoApplication:16 - [] [getMessage] info message shown
+2021-09-16 08:12:52,097 DEBUG CourseDemoApplication:17 - [] [getMessage] debug message shown

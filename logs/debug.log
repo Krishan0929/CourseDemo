@@ -1,0 +1,51 @@
+2021-09-16 08:30:51,955 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 7516 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 08:30:51,964 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 08:30:51,965 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 08:31:01,248 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 10.426 seconds (JVM running for 12.114)
+2021-09-16 08:31:01,254 ERROR CourseDemoApplication:14 - [] [getMessage] error shown
+2021-09-16 08:31:01,254 WARN  CourseDemoApplication:15 - [] [getMessage] warn shown
+2021-09-16 08:31:01,255 INFO  CourseDemoApplication:16 - [] [getMessage] info message shown
+2021-09-16 08:31:01,256 DEBUG CourseDemoApplication:17 - [] [getMessage] debug message shown
+2021-09-16 08:36:00,706 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 7344 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 08:36:00,722 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 08:36:00,723 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 08:36:09,875 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 10.137 seconds (JVM running for 12.779)
+2021-09-16 08:36:09,881 ERROR CourseDemoApplication:14 - [] [getMessage] error shown
+2021-09-16 08:36:09,882 WARN  CourseDemoApplication:15 - [] [getMessage] warn shown
+2021-09-16 08:36:09,882 INFO  CourseDemoApplication:16 - [] [getMessage] info message shown
+2021-09-16 08:36:09,883 DEBUG CourseDemoApplication:17 - [] [getMessage] debug message shown
+2021-09-16 14:36:42,825 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 7152 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 14:36:42,856 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 14:36:42,856 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 14:36:51,591 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 9.861 seconds (JVM running for 11.462)
+2021-09-16 14:36:51,597 ERROR CourseDemoApplication:14 - [] [getMessage] error shown
+2021-09-16 14:36:51,597 WARN  CourseDemoApplication:15 - [] [getMessage] warn shown
+2021-09-16 14:36:51,598 INFO  CourseDemoApplication:16 - [] [getMessage] info message shown
+2021-09-16 14:36:51,598 DEBUG CourseDemoApplication:17 - [] [getMessage] debug message shown
+2021-09-16 14:38:56,451 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 11912 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 14:38:56,461 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 14:38:56,462 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 14:39:05,242 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 9.793 seconds (JVM running for 11.324)
+2021-09-16 14:39:05,249 ERROR CourseDemoApplication:14 - [] [getMessage] error shown
+2021-09-16 14:39:05,250 WARN  CourseDemoApplication:15 - [] [getMessage] warn shown
+2021-09-16 14:39:05,251 INFO  CourseDemoApplication:16 - [] [getMessage] info message shown
+2021-09-16 14:39:05,251 DEBUG CourseDemoApplication:17 - [] [getMessage] debug message shown
+2021-09-16 14:48:25,840 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 12744 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 14:48:25,847 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 14:48:25,847 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 14:48:34,656 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 9.737 seconds (JVM running for 12.141)
+2021-09-16 14:48:34,662 ERROR CourseDemoApplication:14 - [] [getMessage] error shown
+2021-09-16 14:48:34,663 WARN  CourseDemoApplication:15 - [] [getMessage] warn shown
+2021-09-16 14:48:34,664 INFO  CourseDemoApplication:16 - [] [getMessage] info message shown
+2021-09-16 14:48:34,664 DEBUG CourseDemoApplication:17 - [] [getMessage] debug message shown
+2021-09-16 14:53:20,154 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 14092 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 14:53:20,162 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 14:53:20,163 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 14:54:55,849 INFO  StartupInfoLogger:55 - [] Starting CourseDemoApplication using Java 16.0.2 on DESKTOP-BAFFFLG with PID 4644 (C:\Users\Sony\Desktop\CourseDemo\target\classes started by Sony in C:\Users\Sony\Desktop\CourseDemo)
+2021-09-16 14:54:55,855 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-16 14:54:55,856 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-09-16 14:55:05,206 INFO  StartupInfoLogger:61 - [] Started CourseDemoApplication in 10.285 seconds (JVM running for 11.758)
+2021-09-16 14:55:05,212 ERROR CourseDemoApplication:14 - [] [getMessage] error shown
+2021-09-16 14:55:05,213 WARN  CourseDemoApplication:15 - [] [getMessage] warn shown
+2021-09-16 14:55:05,214 INFO  CourseDemoApplication:16 - [] [getMessage] info message shown
+2021-09-16 14:55:05,214 DEBUG CourseDemoApplication:17 - [] [getMessage] debug message shown

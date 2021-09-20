@@ -1,5 +1,6 @@
 package com.CourseDemo.model;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.*;
@@ -26,10 +27,13 @@ public class student
 
   private String gender;
 
-  private String DOB;
+  //@JsonFormat(pattern = "yyyy-MM-dd",shape = JsonFormat.Shape.STRING)
+  @Column(name = "DOB")
+  private String dob;
 
-  @ManyToMany
+
   @JsonIgnore
+  @ManyToMany
   @JoinTable(name="student_course",
              joinColumns = {@JoinColumn(name="student_id",referencedColumnName="student_id")},
              inverseJoinColumns ={@JoinColumn(name = "course_id",referencedColumnName = "course_id")})
