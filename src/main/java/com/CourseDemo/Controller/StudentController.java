@@ -23,11 +23,35 @@ public class StudentController {
         return studentService.createStudent(student);
     }
 
-    @DeleteMapping("/students/{student_id}")
+    /*@DeleteMapping("/students/{student_id}")
     public void deleteStudent(@PathVariable("student_id") int id)
     {
         studentService.delete(id);
+    }*/
+    @GetMapping("/students/{course_id}/students")
+    public List<student> getStudentForCourse(@PathVariable(name = "course_id") int id) {
+        return studentService.getStudentForCourse(id);
     }
+
+    @DeleteMapping("/students/{student_id}/course/{course_id}")
+    public void deleteMethod(@PathVariable(name = "student_id") int id1, @PathVariable(name = "course_id") int id)
+    {
+        studentService.delete(id1, id);
+    }
+
+    @PutMapping("/students/{student_id}/course/{course_id}")
+    public void update(@PathVariable(name = "student_id") int id1, @PathVariable(name = "course_id") int id)
+    {
+        studentService.update(id1, id);
+    }
+
+    @DeleteMapping("/students/{student_id}")
+    public void deleteMultipleCourses(@PathVariable(name = "student_id") int id)
+    {
+        studentService.deleteMultipleCourses(id);
+    }
+
+
 
     // checking to a single file upload on git hub
     //one more commit
